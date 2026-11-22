@@ -1,5 +1,1 @@
-/build
-.cache/
-.DS_Store
-zig-out
-.zig-cache
+result
